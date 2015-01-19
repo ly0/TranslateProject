@@ -8,7 +8,6 @@ Linux下一些蛮不错的音频编辑软件
 
 ![](https://farm9.staticflickr.com/8572/15405018653_83ba3e718d_c.jpg)
 
-Let's get started head on with my personal favorite. [Audacity][1] works on Windows, Mac, and Linux. It is open source. It is easy to use. You get it: Audacity is almost perfect. This program lets you manipulate the audio waveform from a clean interface. In short, you can overlay tracks, cut and edit them easily, apply effects, perform advanced sound analysis, and finally export to a plethora of format. The reason I like it so much is that it combines both basic features with more complicated ones, but maintain an easy leaning curve. However, it is not a fully optimized software for hardcore musicians, or people with professional knowledge.
 让我们从一个我个人最爱的软件开始吧. [Audacity][1] 可以工作在 Windows, Mac 和 Linux 上. 它是个开源软件并且易于使用。你要知道 Audacity 几乎是最好的。这个程序可以让你在一个简洁的界面上操作音频波形。简而言之你可以覆盖音轨，简单的编辑他们，应用一些效果，做一些高级的声音分析，最后导出成很多格式。我喜欢它的原因是因为它把基本的特性组合成了各种复杂的功能，但是却有一个平滑的学习曲线。但是，这对于专业音乐家来说并不是一个最佳的软件。
 
 ### 2. Jokosher ###
@@ -16,6 +15,7 @@ Let's get started head on with my personal favorite. [Audacity][1] works on Wind
 ![](https://farm8.staticflickr.com/7524/15998875136_82903a9b4a_c.jpg)
 
 On a different level, [Jokosher][2] focuses more on the multi-track aspect for musical artists. Developed in Python and using the GTK+ interface with GStreamer for audio back-end, Jokosher really impressed me with its slick interface and its extensions. If the editing features are not the most advanced, the language is clear and directed to musicians. And I really like the association between tracks and instruments for example. In short, if you are starting as a musician, it might be a good place to get some experience before moving on to more complex suites.
+在不同的方面，[Jokosher][2] 致力于关注多轨方向。它是由 Python 开发的，并且以 GTK+ 作为前端，以 GStreamer 作为音频后端。Jokosher 的平滑的界面和它的拓展让我印象深刻。如果它的编辑特性不是最高级的，
 
 ### 3. Ardour ###
 
